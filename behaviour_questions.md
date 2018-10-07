@@ -59,8 +59,16 @@
 
 ##### 2. Problem Solving, Difficulty (Risk, Pressure)
 1. what is the biggest risk you ever took?
+> The module selection for my master courses. My program have three phd level courses which provide by research institute Gatsby unit. Our program direction recommend us not to select these modules because these courses are risky to fail. I like to challenge myself so that I select all three modules in first semester.  
+>
+>The process is a hard trip. Due to the difficulty of courses, we set up study group for  
+
 2. Are you comfortable with risk?
+> Yes. When the risk already exist, you can't ignore it. I will try to find the reason of risk. It's always works well to separate the risk to several small part issues. Then solve them one by one.  
+
 3. Tell me about a recent crisis you faced and how you solved it
+> Similar with questions 2.1
+
 4. Describe a time when you were faced with a stressful situation that demonstrated your coping skills
 5. What is the most demanding task you have ever undertaken? Why? Did you succeed?
 6. Tell me about a time you had to deliver a high quality project in a short time frame.
