@@ -52,7 +52,7 @@
 > photography. I like to record memorable moment by photo.
 
 15. What's your favorite movie?
-
+>The Dark Knight(Batman)  Christopher Nolan
 
 16. Do you have any questions for me?
 > Would you mind sharing your story in this company?
@@ -61,7 +61,7 @@
 1. what is the biggest risk you ever took?
 > The module selection for my master courses. My program have three phd level courses which provide by research institute Gatsby unit. Our program direction recommend us not to select these modules because these courses are risky to fail. I like to challenge myself so that I select all three modules in first semester.  
 >
->The process is a hard trip. Due to the difficulty of courses, we set up study group for  
+>The process is a hard trip. Due to the difficulty of courses, we set up study group for people who have same courses. After class, we get together and discuss the coursework and question. It really helpful to help me make it through.  
 
 2. Are you comfortable with risk?
 > Yes. When the risk already exist, you can't ignore it. I will try to find the reason of risk. It's always works well to separate the risk to several small part issues. Then solve them one by one.  
@@ -105,11 +105,21 @@
 
 ##### 7. Academic questions
 1. What was your favorite class and why?
+>My favorite class is computer algorithm in my undergraduate study. The module introduce the data structure, algorithm complexity and several basic idea such as BFS, DFS, greedy method, DP. I like it because it bring me to the start of programming. Now I practice my programming skills in Leetcode, almost solutions are based on the content I learned from this course.   
+
 2. Why is your GPA what it is?
+> I got first class degree in my undergraduate study. I got 80 average mark in total.
+
 3. Why the major? How does it apply to a career in this industry?
 
 ##### 8. Industry-Related questions
 1. of your past experiences, what will help you in this industry?
+> I believe # class ListNode(object):
+#     def __init__(self, x):
+#         self.val = x
+#         self.next = None
+
+
 2. why this company?
 3. What do you do to keep up with the industry?
 4. Tell me about an article you read recently
