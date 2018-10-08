@@ -114,12 +114,6 @@
 
 ##### 8. Industry-Related questions
 1. of your past experiences, what will help you in this industry?
-> I believe # class ListNode(object):
-#     def __init__(self, x):
-#         self.val = x
-#         self.next = None
-
-
 2. why this company?
 3. What do you do to keep up with the industry?
 4. Tell me about an article you read recently
