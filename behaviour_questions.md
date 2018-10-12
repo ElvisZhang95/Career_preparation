@@ -111,17 +111,47 @@
 > I got first class degree in my undergraduate study. I got 80 average mark in total.
 
 3. Why the major? How does it apply to a career in this industry?
+> My major is Machine learning and Computer science. I think there are a lot of contribution I can made in this industry. Since the machine learning show great advantage in data science analysis, I think I can apply machine learning to improve current system or solve real-world problems.
+
 
 ##### 8. Industry-Related questions
 1. of your past experiences, what will help you in this industry?
+> When working as a research intern in a French electric company, I learned a great deal about prioritizing. I have to deal with so much paperwork and also involve in other projects. I learned to sort through the massive stack of work to be done and select what information was needed right away and what could wait a little longer. Finally, prioritizing my workload became my second natural. I also get benefit in my master study by managing my work with prioritizing.   
+
 2. why this company?
+> first, the role fits my interest and skillset. second, I really care about the future development of the company and my personal career path. I think join __ is a good start for my career and I also think highly of this company.
+
 3. What do you do to keep up with the industry?
+>I think the key point is keep learning new things and enhance the understand of company requirement. Since the fast development of technology, I think its important to learn cutting-edge knowledge to follow the future development of company. In detail, I will pay attention to new progress in my industry through social media, academic paper, news etc.
+
 4. Tell me about an article you read recently
+
 5. What did the market close at yesterday?
+
 6. <span style='color:grey'>Are interest rates historically high or low right now? What has their recent trend been?</span>
 7. <span style='color:grey'>Which direction do you think market is heading in? why?</span>
 8. What do you think are the skills and traits necessary for success in this industry? How do you embody them?
+> self-motivated and keep learning.   
+> In my view, I think the company need me to solve problem without supervised. The motivation should come from myself. This industry/role fit well with my career interest. Then I have passion to push myself to do somethings interesting.  
+>The second point is keep learning. The learning ability is important for human. One is never to old to learn. I like to learn new/advanced things because it fill my curiosity. A company need development must need people with fresh knowledge so I am one of them.  
+
 9. Please rate the following according to your comfort level: analytical skills, presentations skills, and client-relation skills. Why did you choose that order?
+> analytical skills - high  
+> presentation skills - medium
+> client-relation - medium
+
 10. Why are you interested in this industry?
+> My father is a business man so I am pretty sensitive about buy and sell. Then I have opportunity to learn about the financial market. Its provide easy way for trading and I am interested in think about how to buy and how to sell. Since the development of data science, I am glad I have opportunity to participate in this industry. To using large scale data analysis to provide information or prediction.
+
 11. What group or sector are you interested in? Why?
+> Trading sector, to be quantitative research, quantitative analyst and quantitative developer.
+
 12. How do you value a company?
+> future development.   
+> employee (Rule of thumb)  
+> work environment  
+> Management
+>
+> Asset value   
+> cash flow   
+> Financial   
