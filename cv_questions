@@ -4,6 +4,15 @@
 3. Implement Convolution Neural network in Numpy
 4. Predicting CO_2 concentration by Gaussian Process Regression
 5. Decrypting Messages with MCMC samples
+>1. use MCMC to find the key of decrypting message.
+>2. Follow the rule of markov chain, the status in the markov
+> chain will convergen through transition probability matrix.
+> stationary distribution is expected posterior distribution.
+> MCMC have accept rate, Metropolis-Hastings algorithm to adjust
+> the accept rate to 1.
+> become efficient, increase the accept rate.
+
+
 6. Training mixture of Gaussian Model for distinguishing apple pixel
 7. Copper Price Prediction
 > Using machine learning algorithm to predict copper future
@@ -47,6 +56,9 @@ probability distribution of stochastic process.
 >posterior P(Y|f)
 >finally, we get the mean and covariance of underlying function
 >
+>The time comlexity of gaussian process is O(n3) because inverse matrix.
+> if we use matrix-vector , we can reduce the complexity to O(n2)
+>
 >Multiple kernel learning
 >apply multiple learning in kernel ridge regression
 >In simple, we replace a simple kernel with multiple weighted kernel linearly
@@ -79,7 +91,36 @@ number of pairs
 
 
 10. Latent Dirichlet Allocation with Gibbs Sampling
-
+> Gibbs sampling satsify detailed balanced. finanlly get the joint distribution
+> p(x1, x2, x3, x4,... xn) we only select one axis to transfer.
+>support we have D document, A article, w words
+>we want to find the topic distribution of each document and
+> word distribution of each topic.
+>we set the prior of topic and word is Dirichlet distribution
+>
+>Dirichlet-multinoimal conjugate to find the posterior of the document-topic distribution and
+> topic-word distribution.
+>
+>process:
+>use gibbs to set topic for each words because we have the joint distribution of
+>word and topic.
+>
+>Now we have D number document, w number words and we set there are K topics
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
 
 
 11. Kernel Canonical Correlation Analyst
