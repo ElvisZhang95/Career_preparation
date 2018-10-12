@@ -1,0 +1,14 @@
+1. Tree可以借助Tail的方法来保存 tail是自己设的（借用）
+2. 如果想要让data structure的remove达到 O(1)的效果，可以借助于dictionary
+3. Python Filter(function, iteration) 可以把后面的数组通过function来过滤掉
+   e.g. filter(None, [...])即把数组里的None过滤掉
+4. join function 即插入...在数组中
+   e.g.
+   s ='\'
+   seq = ['a','b','c']
+   s.join(seq) = a\b\cMM
+5. zip(* iterable) 类似于reshape
+6. any() 就是遍历查找有没有 具体看python built-in function
+7. Bit Manipulation
+8. Sorted() function
+9. LinkedList里面的swap l1, l2 = l2, l1只换value 不换next后面的node
