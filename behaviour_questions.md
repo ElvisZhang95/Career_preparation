@@ -70,38 +70,68 @@
 > Similar with questions 2.1
 
 4. Describe a time when you were faced with a stressful situation that demonstrated your coping skills
-5. What is the most demanding task you have ever undertaken? Why? Did you succeed?
-6. Tell me about a time you had to deliver a high quality project in a short time frame.
-7. Give me an example of an important goal that you set. Tell about your success in reaching it
-8. Tell me about a time you had to be analytical
-9. Tell me about a time you had to solve a complex Problem
-10. <span style='color:pink'>How do you handle mistakes?</span>
+>similar answer with next question.
 
+5. What is the most demanding task you have ever undertaken? Why? Did you succeed?
+>catch up gatsby course.
+
+6. Tell me about a time you had to deliver a high quality project in a short time frame.
+>In this situation, in order to finish the project in short time, I will try to learn some exist similar sample made by others. They make some change due to my project requirement.
+
+7. Give me an example of an important goal that you set. Tell about your success in reaching it
+>get degree in the master study. Same as difficulty of Gatsby.
+
+8. Tell me about a time you had to be analytical
+
+9. Tell me about a time you had to solve a complex Problem
+>Split to small sub-problem, ask for help, transform problem in other way. Maybe somgtimes we can't solve this problem, but we can get our target in another way.
+
+10. <span style='color:pink'>How do you handle mistakes?</span>
+>find reason(why), find influence, find solution, ask for advice, do as possible.
 
 ##### 3. Team Work
 1. Tell me about a time when you had to deliver an important goal when working in a Team?
 2. Are you a team player?
+>like making advertising video. For example,  
+
 3. Tell me about a time you were part of a team that didn't work well together or lacked direction.
+>One thing about this is relevant to deep learning project. The deep learning is black-box method, sometimes we are not quite sure how to tuning the parameter for the neural network. since we may have several parameter, we have to use brute force to test every combination of parameter and write down the model performance in the excel. Also, another method, is to ask some experienced people for help because the parameter tuning in deep learning seems like a empirical work.  
+
 4. Tell me about a time that you had to resolve a dispute between others. What happened? What would you have done differently?
+>I think I show express my opinion no matter if other take it.
+
 5. Tell me about a time you had to work with one or more people and you helped to coach or motivate them despite initial resistance.
+>same as advertising video.
+
 6. Tell me about a diverse and demanding team you worked on
+
 
 ##### 4. one to one
 1. Tell me about a time you had to work with a difficult person.
 2. Tell me about a  time when you had to work with someone who was different than you.
-3. Tell me about a time when you had to use your persuasion skills to influence someone's opinion.
+>One of my friend, he is totally different than me, We always find somewhere contraction for some issues. You know, some question don't have clear answer, true or false. We always have arguments for different opinion. The thing is, he and I are patient to express our own idea. hence, once we have arguments, we will try our best to persuade another, to show your proof, show your reason, and try to find error in his idea. Yeah, its pretty interesting, and for now he is one of my closed friend.
+>
+>The same situation in the work, I think when I work with a difficult person, I will express my reason clearly when he is not agree with me.
+
+3. <span style="color:pink">Tell me about a time when you had to use your persuasion skills to influence someone's opinion.</span>
 4. Tell me about a time when you had a specific expertise or knowledge that you needed to share with others and how you did it? what was it? How did you share it?
+> I was an student member in the student sport union and I am responsible for the advertising video for the sport event. When I become year 2 student, I have to provide mentorship for the year 1 student who continue my role. I have to show him what have I done for these things, how to use the software for editing video. Then when he have to do, I come together to work with him for his first video.   
+
 5. Give me an example of a time when you motivated others
+> I think the most efficient way to motivated others, is to give a example that show you have similar/ever worse situation as the person and told him the story that you work out.  
 
 ##### 5. Failure
 1. Describe a time you had to manage competing demands on your time and were not successful. Why did you fail? What would you do differently?
 2. Tell me about a time you failed. What did you learn from it? How did you handle it? What would you have done differently?
-3. What are you r negative experiences and how did you overcome them or learn from them?
+3. What are your negative experiences and how did you overcome them or learn from them?
+> maybe one of the example is the job application. I started to look for job in March this year. From march to now, I guess I have experience too much failures. I received several rejection reason of my application, for example, your cover letter is not focus on this role/ my cover letter is not relevant enough, or when I take first phone interview, I am too nervous to express my mind efficiently, or for the code test, I fail in the white board test. To be honest, I learned a lot from these interview opportunity. To solve these potential problems, now before I apply a role of a company, I hope to do as much as research to learn about the department, the role, how relevant of my skillset. For interview, I try to write down the answer for all the behaviour question and experience. For the code test, I try to practice my programming skill in Leetcode every day.
+>
+> I am comfort with the failure and I hope I can always find the opportunity from the failure. Since the failure is already happened, I am more care about what should I do next for in this bad situation.
 
 ##### 6. Brain teasers/ Case Study
 1. If I gave you one day to raise $10,000 for charity, what would you do?
 2. You are sending a very important article (potential market moving) to editorial. With only 10 minutes before it is released to the market you find a mistake. What do you do?
-3. Imagine I'm a 4-year-old. Explain the ocncept of ___ to me.
+3. Imagine I'm a 4-year-old. Explain the concept of ___ to me.
 
 ##### 7. Academic questions
 1. What was your favorite class and why?
