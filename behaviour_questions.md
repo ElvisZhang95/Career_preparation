@@ -185,3 +185,19 @@
 > Asset value   
 > cash flow   
 > Financial   
+
+
+##### 9. Hirevue Classical Question
+1. Why your background and experience would be a good fit for this job?
+> My name is Shuhao Zhang. I am a graduate student from UCL machine learning. I familiar with almost machine learning algorithm such as supervised learning, unsupervised learning and deep learning. In addition, I have hands-on experience for natural language process and machine vision. Besides, I am interested in financial market. My master project is to use machine learning algorithm to predict commodity future price. Also, I have experience in scarp the information from financial reports.
+>
+>Prior to my master degree, I obtained the first class degree with computer science background from University of Liverpool. I have solid knowledge for object-orient programming, data structure, algorithm complexity and database. I have experience in software development with small group members.
+>  
+>For now, Python is my most commonly used language and I familiar with popular machine learning package such as numpy, pandas, scikit-learn, tensorflow.
+>Following the culture of JP Morgan chase, I hope to bring fresh academic knowledge into work. Hence I catch this opportunity to apply this job.   
+
+2. Tell us what have been your best work achievement to this point in your career. What made this achievement important?
+>I think my best achievement could be my graduate program. Using machine learning to predict copper future price because its my achievement can be used in the real world problems. I use the real-world data for my model. 
+
+
+3. Describe a difficult task you were faced with and how you address it?
