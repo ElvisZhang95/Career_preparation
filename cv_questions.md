@@ -96,19 +96,17 @@ number of pairs
 >support we have D document, A article, w words
 >we want to find the topic distribution of each document and
 > word distribution of each topic.
->we set the prior of topic and word is Dirichlet distribution
+>we set the prior of topic and word is Dirichlet distribution（设定主题跟词的分布是Dirichlet分布）
 >
 >Dirichlet-multinoimal conjugate to find the posterior of the document-topic distribution and
-> topic-word distribution.
+> topic-word distribution. Then we can get the document-words joint distribution.
 >
 >process:
 >use gibbs to set topic for each words because we have the joint distribution of
 >word and topic.
 >
->Now we have D number document, w number words and we set there are K topics
 >
->
->
+>LDA是文本分析里面一个很有名的topic model，它基于一个简单的词袋模型，通过概率建模，得到文档和词汇的主题分布。由给定的先验Dirichlet分布，得到文档生成的似然函数，然后得到Gibbs Sampling收敛时的分布，就是topic的对应分布. Gibbs Sampling采样的是每个词每一次应该如何决定跳转到哪个topic。
 >
 >
 >
