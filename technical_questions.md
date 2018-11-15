@@ -13,3 +13,6 @@
   - design pattern
 
 - Time complexity
+
+concept:
+class ,object, instance, call, invoke, interface, information hiding (encapsulation), abstraction, composition, inheritance, UML, Object diagram (instance diagram), aggregation,  

@@ -197,7 +197,111 @@
 >Following the culture of JP Morgan chase, I hope to bring fresh academic knowledge into work. Hence I catch this opportunity to apply this job.   
 
 2. Tell us what have been your best work achievement to this point in your career. What made this achievement important?
->I think my best achievement could be my graduate program. Using machine learning to predict copper future price because its my achievement can be used in the real world problems. I use the real-world data for my model. 
+>I think my best achievement could be my graduate program. Using machine learning to predict copper future price because its my achievement can be used in the real world problems. I use the real-world data for my model.
 
 
 3. Describe a difficult task you were faced with and how you address it?
+
+
+##### Bloomberg Data analyst
+1. What is Bloomberg?
+>Bloomberg, is a global information and technology company, which delivering business and financial information, news and insight to customers around the world.
+
+1. Why Bloomberg? (Why are you interest in Bloomberg)
+>Bloomberg, a global information and technology company, which delivering business and financial information, news and insight to client around world. Bloomberg's service covers almost any asset class data in the market. In the digital ages, the data become more valuable in the world. The future development of world is based on data. That's the reason I look good at Bloomberg.
+
+>Particularly, I could find my target role in Bloomberg. In the data \ tech operation of Global data department, I am really interested in the role in the data science team. I learned about what they have done, such as extracting value from social media through NLP, using ML to parse through large alternative data. That's like what I want to do. Applying machine learning technologies to extract underlying information from the data. I think its also the goal of Bloomberg, delivery accurate, valuable data to clients.  
+
+>By the way, I have been to Bloomberg London office once. It's a really exciting opportunity to work there.  
+
+2. Why data analyst?
+>I'd love to work with technology and data and I expect to start my career in Bloomberg.
+The role of data analyst is to acquire, update, maintain and process data to feed the terminal. to enhance system efficiency, to deliver new idea with colleagues, to provide services for the Bloomberg client.  
+
+>The data analyst is the fundamental role in the global data team. It provides me opportunities to learn more about the Bloomberg products, the basic roles in Bloomberg, and practice myself in the technology area for the future development in the Bloomberg.
+
+3. Why are you would be a good fit for this role?
+4. Brief introduction yourself and why you are applying for this role
+>For my personality, I am interest in technology and data. I enjoy being challenged and engaging with projects that require me to work outside my comfort and knowledge set, as continuing to learn new knowledge and development techniques are the motivation of myself.
+
+>For my skillset, My background is machine learning in master degree and computer science in bachlor's degree. I believe I have solod experience in data analysis and research. Python is my commonly used programming language and I familar with popular data science package such as Numpy, Scikit-learn, Tensorflow, Pandas, Matplotlib. Also, I have hands-on experience in software development, I familiar with data structure, algorihtm complexity and database (SQL). and I also know about the LaTeX documentation and Git tools.
+
+>In addition, I have strong understanding of the asset class of financial market, such as equity, commodity, Fiexd income.
+
+>Due to my interest and skillset, I think I would be a good fit for this role.
+
+24. What is global data? Why Global data?
+> The global data team is the heart of Bloomberg. Global Data is responsible for maintaining and providing accurate and timely information to clients on the Bloomberg terminal, as well as helping to improve their experience of the terminal.
+> I could find my target role in Global data team. In the data \ tech operation of Global data department, I am really interested in the role in the data science team. I learned about what they have done, such as extracting value from social media through NLP, using ML to parse through large alternative data. That's like what I want to do. Applying machine learning technologies to extract underlying information from the data. I think its also the goal of Bloomberg, delivery accurate, valuable data to clients.  
+
+3. Strengths/weaknesses?
+> 1. Curiosity. I am curious about the unknown and I am enjoy learning and challenge myself to fill my curiosity.
+> 2. Insistence. I always try to reach my target with my efforts.
+> 3. Easy-going. I am a good listener. I respect my own opinion and I also willing to see others opinion.
+>
+>weaknesses?
+>1. I'm scared of public speaking.
+>2. care too much about my future which made me anxious. (try to living in the moment)
+>3. Self-critical.(unreasonable expectation)
+
+4. What are you looking for? What are you career goal?
+5. what are your career aspirations
+> My career goal is to join the data science team in the Bloomberg. Enhance my machine learning skills and apply the cutting edge technology to the Bloomberg products.
+
+6. Who are Bloomberg's competitors?
+>Other financial information providers(Primarily Reuters, along with Cap IQ, Factset, Symphony) The Bloomberg terminal have efficient interface, famous chat feature and almost cover almost asset class information.
+
+8. Do you have an understanding of the financial market?
+>it can be summarised as a market place where traders and investors buy and sell assets such as shares, commodities, bonds, etc.
+
+11. What do you expect or predict will happen in the financial markets in the near future?
+> Global financial market is at the end of an economic cycle. The equity market is expericing volailities recently after two massivw correction this year. At the end of the cycle, along with US rate hike and rising bond yield (3%), we expect value stocks to outperform growth, and developed markets outperform emerging markets.
+
+>The emerging market crisis is back. It looks like the emerging market bubble is about to burst.
+
+14. Describe a project relate to data
+15. tell me about your data management experience  
+(Data management is an administrative process that includes acquiring, validating, storing, protecting, and processing required data to ensure the accessibility, reliability, and timeliness of the data for its users.)
+> A recent project relate to data is about commodity future price prediction. The data I have is the raw data of future price and other index. In the beginning of the project, I had to clean the missing data, transform the time series data into stationary, select the available period time of all the data. Then, I will do some statistics test to check the property of the time series data I processed. Next, I will try different machine learning model from simple to complex to predict the future price. In this project, I used ARIMA model, Gaussian process and multiply kernel learning to solve this problem. Finally, I use rank correlation as evaluation metric.  
+
+21. In Global Data we source data for the terminal, where do you think we source our data from?  
+> As I known, Bloomberg operates a number of data centers around the world where they receive data feeds from exchanges as well as from securities information processors. At these data centers, the data is cleaned and normalized from the exchange-specific data format into a consistent Bloomberg data format which is then delivered to the Bloomberg terminals.  
+
+22. Why do you think company culture is so important to Bloomberg?  
+>Workplace culture is very comfortable, open door layout allows for discussions. The culture lends to transparency and constant interactions with employees of different levels and job function. I think the good company culture could increase the efficiency of workflow.
+
+12. What is difference between stock and bonds?
+> Stocks and bonds represent two different ways for an entity to raise money to fund or expand their operations. When a company issues stock, it is selling a piece of itself in exchange for cash. When an entity issues a bond, it is issuing debt with the agreement to pay interest for the use of the money.
+
+13. What's an option contract?
+>An options contract is an agreement between two parties to facilitate a potential transaction on the underlying security at a preset price, referred to as the strike price, prior to the expiration date. The two types of contracts are put and call options, which can be purchased to speculate on the direction of stocks or stock indices, or sold to generate income.
+
+19. Tell me 3 news in the market
+> U.S. stock futures slide as treasuries advance
+> oil rises after eight days of losses as OPEC considers cuts
+> the pound's pain may finally be coming to an end.
+
+20. What programming languages are you experienced with? Explain what your process was for learning that language and what projects have you done using that language?
+
+25. Describe how you solve a problem during your past work experience?  
+> When working as a research intern in a French electric company, I learned a great deal about prioritizing. I have to deal with so much paperwork and also involve in other projects. I learned to sort through the massive stack of work to be done and select what information was needed right away and what could wait a little longer. Finally, prioritizing my workload became my second natural. I also get benefit in my master study by managing my work with prioritizing.   
+
+
+5. Describe a time when you had to work with a difficult team members
+> >One of my friend, he is totally different than me, We always find somewhere contraction for some issues. You know, some question don't have clear answer, true or false. We always have arguments for different opinion. The thing is, he and I are patient to express our own idea. hence, once we have arguments, we will try our best to persuade another, to show your proof, show your reason, and try to find error in his idea. Yeah, its pretty interesting, and for now he is one of my closed friend.
+>
+>The same situation in the work, I think when I work with a difficult person, I will express my reason clearly when he is not agree with me.
+
+6. Talk about a example that you increase the efficiency and what tools you use.
+>In my undergradaute, we are assigned a project to develop an aritifcial intelligenc relevant sofotware with 6 people group. The design of this software have several components. And for each componets, the group memeber have different idea and each of them may work with different part of code. Hence, I set up a github for our project, a version-control system, to help us share the code and make update convenience. This tools help us increase the efficiency in the software development.
+
+7. Talk about a example when you are a lead of a team or group. What challenge have you faced? and how you solve it.
+>the same software project I mentioned, In the software development process, its usual that everyone have different idea for one question. For a group project, I try to let group member work forward to the same idea. In this siatution, first, I will gather group memebrt to sit together and then write down everyone's opinion. Next, list all the cons and pros of each idea, and try to create a best solution which all the group memebr agree with.
+
+##### BlackRock
+Why did you choose to apply to BlackRock and this specific business?
+> I decide to go in for the asset management industry and I am go mad about the investing. Part of interest comes from the American tv show "Billions". searching the correlated data, generate alpha, build model and strategy and realize my own idea. That's what I am interested in. The specific business unit I expected is quantitative investing. Early I joined a BlackRock university campus event, I got a opportunity to learn about the latest product of systematic active equity team(real time twittes feed system). It's cool and I find my passion and what I can do in the quantitative research at BlackRock. I got master degree in machine learning and I can apply my knowledge to exact alternative data in the investing with machine learning background. Due to my interests and skillsets, I want to catch this opportunity to apply for this specific business.  
+
+How does BlackRock differentiate itself as a firm?
+> BlackRock financial is the largest investment management company in the world. BlackRock's mission is to create a better financial future for the clients, by building the most respected investment and risk manager in the world. BlackRock has four principles: Innovation, One BlackRock(teamwork and collaboration), Passion and fiduciary to clients. one of the things that's great about this company is that they are focus on the client.
+> Besides, Blackrock reach a high reputation in the financial industry. Its keep good financial performance with largest asset under management. Also, the strong culture enhanced the power and influence of the firm. Every Blackrock employee I've interacted genuinely likes this firm.  
